@@ -1,16 +1,35 @@
-## Hi there 👋
+# https://courses.cognitiveclass.ai/certificates/f294866a9ce54739a1619dd288fa1f39
 
-<!--
-**kenthairhonguinto-prog/kenthairhonguinto-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Kenth Airhon A. Guinto
 
-Here are some ideas to get you started:
+I'm passionate about coding and skilled in database management. I enjoy tackling complex problems and designing elegant, efficient solutions. My journey in tech began with the BS Information Technology program and continues to grow as I deepen my expertise in software development and cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Education
+
+BS Information Technology
+New Era University
+2023 – Present
+
+ Certifications
+SQL and Relational Databases 101
+
+ Skill Set
+Programming
+
+Java
+
+JavaScript
+
+Databases
+
+IBM DB2 Cloud
+
+Tools
+
+Lucidchart
+
+Jaspersoft Studio
+
+Eclipse
+
+HTML
