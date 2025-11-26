@@ -14,6 +14,7 @@ I'm passionate about coding and skilled in database management. I enjoy tackling
 
 • SQL and Relational Databases 101
 Credential: CognitiveClass.ai
+
 Certificate Link: [SQL and Relational Databases 101]
 
 🛠️ Skill Set
