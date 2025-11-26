@@ -42,4 +42,3 @@ Certificate Link: [SQL and Relational Databases 101](https://courses.cognitivecl
 🤝 Let's Connect!
 
 📧 Email: kemmyguinto2@gmail.com
-[SQL and Relational Databases 101](http://courses.cognitiveclass.ai/certificates/99c6ae8d07464a0c87c8b387e1381afc)
