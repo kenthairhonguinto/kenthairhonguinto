@@ -5,7 +5,9 @@ I'm passionate about coding and skilled in database management. I enjoy tackling
 🎓 Education
 
 • Bachelor of Science in Information Technology
+
 New Era University
+
 2023 – Present
 
 🎓 Certifications
@@ -15,6 +17,7 @@ Credential: CognitiveClass.ai
 Certificate Link: https://courses.cognitiveclass.ai/certificates/f294866a9ce54739a1619dd288fa1f39
 
 🛠️ Skill Set
+
 • Programming
 
 • Java
