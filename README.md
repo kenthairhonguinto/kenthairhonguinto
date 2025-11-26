@@ -17,8 +17,6 @@ Credential: CognitiveClass.ai
 
 Certificate Link: [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/f294866a9ce54739a1619dd288fa1f39)
 
-SQL and Relational Databasescourses.cognitiveclass.ai/certificates/99c6ae8d07464a0c87c8b387e1381afc
-
 🛠️ Skill Set
 
 • Programming
