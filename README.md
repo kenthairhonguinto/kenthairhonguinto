@@ -35,5 +35,5 @@ Eclipse
 HTML
 
 Let's Connect!
-LinkedIn: LinkedIn Profile
-Email: jeremias.esperanza@gmail.com
+
+Email: kemmyguinto2@gmail.com
