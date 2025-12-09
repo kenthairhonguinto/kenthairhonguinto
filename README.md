@@ -13,6 +13,7 @@ I'm passionate about coding and skilled in database management. I enjoy tackling
 # 🎓 Certifications
 
 • Certificate Link: [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/f294866a9ce54739a1619dd288fa1f39)
+• Certificate Link: [Become An OCI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=79B31A96254022E0D7FF41D00B4971C67C3B19033D1C3C9AD853F9F48177F6B4)
 
 # 🛠️ Skill Set
 
