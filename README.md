@@ -8,7 +8,7 @@ I'm passionate about coding and skilled in database management. I enjoy tackling
 
 • New Era University
 
-• 2025 – Present
+• 2026 – Present
 
 # 🎓 Certifications
 
