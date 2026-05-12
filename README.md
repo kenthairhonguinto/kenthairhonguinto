@@ -19,6 +19,8 @@ I'm passionate about coding and skilled in database management. I enjoy tackling
 • Certificate Link: [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C3D7DDA271E2D2E0E1FCB4410B0B82CBBE254BB155946833C574FEBCDDA0CF84)
 
 • Certificate Link: [Become An OCI AI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C3D7DDA271E2D2E0E1FCB4410B0B82CBBE254BB155946833C574FEBCDDA0CF84)
+
+• Certificate Link:  [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/142e1f25af1b421e8070bf1fcc6f3c51#)
 # 🛠️ Skill Set
 
 • Programming
